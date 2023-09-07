@@ -6,11 +6,11 @@ Credit to AI Anytime, i have referred it from his youtube video.
 
    first create a virtual environment (venv)
    
-   pip install -r requirements.txt
-   
-   python -m venv venv
-   
-   venv\Scripts\activate
+         pip install -r requirements.txt
+         
+         python -m venv venv
+         
+         venv\Scripts\activate
    
 
    Now download the quantized model (save it in the same directory, say MEDICALCHATBOT)
