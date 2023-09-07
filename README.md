@@ -5,11 +5,16 @@ Credit to AI Anytime, i have referred it from his youtube video.
 1. Create a directory MEDICALCHATBOT (all the files and folders must be in it) or just clone this repo
 
    first create a virtual environment (venv)
+   
    pip install -r requirements.txt
+   
    python -m venv venv
+   
    venv\Scripts\activate
+   
 
    Now download the quantized model (save it in the same directory, say MEDICALCHATBOT)
+   
    link -> https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin
 
    Save the pdf file in directory named data (if you change the name, make the necessary changes accordingly)
