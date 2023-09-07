@@ -3,8 +3,6 @@ I ran it on i5 8th gen with 8GB RAM, 16GB is preferred, if you have GPU, kindly 
 Credit to AI Anytime, i have referred it from his youtube video.
 
 
-Follow the following steps if you want to completely do it yourself, else you code simply clone it
-
 1. Create a directory MEDICALCHATBOT (all the files and folders must be in it)
 
    first create a virtual environment (venv)
